@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 {
 	[SerializeField]
 	private Transform wrapper;
-	private const float maximumPull = 160f;
+	private const float maximumPull = 200f; //160
 	[SerializeField]
 	private InputManagerScript InputInstance;
 	
